@@ -8,7 +8,7 @@ state.getTodo()
 // const res = await fetch('https://jsonplaceholder.typicode.com/todos')
 // const posts = await res.json()
 
-const data=await axios.get('https://jsonplaceholder.typicode.com/todos')
+// const data=await axios.get('https://jsonplaceholder.typicode.com/todos')
 // console.log(data.data);
 </script>
 
